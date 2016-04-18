@@ -1,0 +1,82 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 17/04/2016, 23:04:11
+    Author     : Fabio
+*/
+
+.circulo{
+    margin: 56px;
+    border-radius: 100px;
+    border-color: #FF0000;
+    border: 100px solid;
+    float :left;
+    opacity: 50%;
+    text-align:center;
+    background:#000
+}
+
+p{
+    position:absolute;
+    color : #000;
+    font-size:16px;
+    font-weight: bold;
+    
+}
+
+h1{
+    margin: 30px;
+    font-family: Verdana;
+    position: relative;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+}
+
+h2{
+    font-family: Verdana;
+    position: relative;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 16px;
+}
+#header{
+    margin:auto;
+    width:95%;
+    color: #D50000;
+    border: 10px solid;
+    border-radius: 25px;
+    position : fixed;
+    top: 5px;
+}
+#footer{
+    margin:auto;
+    width:95%;
+    color: #D50000;
+    border: 10px solid;
+    border-radius: 25px;
+    position: fixed;
+    bottom: 5px;
+}
+#deposito{
+    color:#F44336;
+}
+#saldo{
+    color:#673AB7;
+}
+#saque{
+    color:#4CAF50;
+}
+#transferencia{
+    color: #FF4081;
+}
+.form{
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em
+}
